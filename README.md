@@ -17,4 +17,4 @@ Thirst year project, a web application that works like Netvibes (light). This ap
 
 ![Alt text](screenshots/1.png?raw=true "1")
 ![Alt text](screenshots/2.png?raw=true "2")
-![Alt text](screenshots/2.png?raw=true "3")
+![Alt text](screenshots/3.png?raw=true "3")
