@@ -12,7 +12,7 @@ A third-year student project, a web application that functions similar to Netvib
         Gradle 7.5.1
 
 ### 2. Build & Run
-        gradle built
+        gradle build
         gradle bootRun
 
 ## Screenshots
