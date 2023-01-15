@@ -1,16 +1,18 @@
-# DASHBOARD
-Thirst year project, a web application that works like Netvibes (light). This app use third-party API to give some services to the user.
+# DashBoard
+A first-year student project, a web application that functions similar to Netvibes, but with a simpler interface. This app utilizes third-party APIs to provide various services to the user.
 
 ## Features
 
-* The user registers on the application in order to obtain an account with oauth2
-* The user can manage Widgets (Weather, youtube, steam)
+* Users must register for an account through oAuth2 authentication
+* Users have the ability to manage and customize their Widgets (Weather, Youtube, Steam)
 
-## How to build
+## Build on Linux (Ubuntu)
 
 ### 1. Install gradle
         Gradle 7.5.1
-### 2. Run
+
+### 2. Build & Run
+        gradle built
         gradle bootRun
 
 ## Screenshots
