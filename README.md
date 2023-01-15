@@ -1,5 +1,5 @@
 # DashBoard
-A first-year student project, a web application that functions similar to Netvibes, but with a simpler interface. This app utilizes third-party APIs to provide various services to the user.
+A third-year student project, a web application that functions similar to Netvibes, but with a simpler interface. This app utilizes third-party APIs to provide various services to the user.
 
 ## Features
 
